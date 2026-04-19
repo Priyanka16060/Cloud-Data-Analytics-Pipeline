@@ -48,7 +48,7 @@ Business Insights
 
 ## Dashboard Preview
 
-![Energy Consumption Dashboard](screenshots/dashboard.png)
+![Energy Consumption Dashboard](Tableau Dashboard.jpeg)
 
 > Multi-view Tableau dashboard showing KWH and CSU metrics broken down by Country, Region, and Energy Source (Biomass, Geothermal, Hydro, Solar, Wind) across 6 global regions.
 
